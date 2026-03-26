@@ -181,6 +181,8 @@ body{
   border: 1px solid rgba(44,255,130,0.28);
   box-shadow: 0 0 0 1px rgba(0,0,0,0.55) inset, 0 0 36px rgba(44,255,130,0.16);
   filter: saturate(1.02) contrast(1.03);
+  background-attachment: fixed;
+  background-repeat: no-repeat;
 }
 .photo-caption{
   font-size: 12px;
